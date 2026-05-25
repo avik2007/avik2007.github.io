@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an ML Engineer working at the intersection of machine learning and climate science.
-My work focuses on applying deep learning and statistical methods to climate modeling,
-Earth observation data, and climate impact assessment.
+Computational physicist (PhD, University of Michigan 2025) building machine learning systems and production data pipelines for climate tech and science. Seven years designing physics-informed models, statistical algorithms, and HPC pipelines for multi-terabyte scientific datasets.
 
-[Placeholder: expand bio with current role, research focus, and background.]
+My work spans spatio-temporal analysis of Earth-system simulations, automated image analysis, and ML-driven risk assessment for renewable energy. I care about applying rigorous quantitative methods to problems that matter for the planet.

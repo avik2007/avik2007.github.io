@@ -5,30 +5,24 @@ permalink: /projects/
 author_profile: true
 ---
 
-## [Project Title Placeholder]
+## Spatio-Temporal Spectral Decomposition for Ocean Climate Simulations
 
-**Tech:** Python, PyTorch, xarray
+**Tech:** Python, NumPy, SciPy, Xarray, Dask, NetCDF, NASA Pleiades HPC
 
-[Placeholder: 2-3 sentence description of the project, what problem it solves, and results.]
-
-[[GitHub](#)] [[Demo](#)]
+Designed and implemented a novel spatio-temporal spectral decomposition algorithm to analyze kinetic energy transfers in NASA's coupled Earth-system simulation (MITgcm/GEOS5). Built parallelized ETL pipelines processing ~1 TB of ocean simulation data, enabling analysis of scale interactions in geophysical turbulence. Published in *Physical Review Fluids* (2025).
 
 ---
 
-## [Project Title Placeholder 2]
+## Semi-Automated Microscopy Image Analysis Pipeline
 
-**Tech:** Python, scikit-learn, GCP
+**Tech:** Python, OpenCV, scikit-learn, FIJI, NumPy
 
-[Placeholder: 2-3 sentence description of the project, what problem it solves, and results.]
-
-[[GitHub](#)]
+Built the first semi-automated image analysis pipeline for the Lubensky Lab to process ~1 TB of biological microscopy data. Achieved a 10x throughput improvement over manual analysis. System performs cell segmentation, tracking, and statistical inference on active matter experiments.
 
 ---
 
-## [Project Title Placeholder 3]
+## C++ Stochastic Cell Simulation
 
-**Tech:** Python, TensorFlow, ERA5 data
+**Tech:** C++, statistical mechanics, Monte Carlo methods
 
-[Placeholder: 2-3 sentence description of the project, what problem it solves, and results.]
-
-[[GitHub](#)]
+Engineered a high-performance physics-based simulation of 100,000+ heterogeneous cells with stochastic dynamics to model active matter and biological tissue behavior. Used to study emergent phenomena in cell populations under the Lubensky Lab's theoretical framework.

@@ -1,27 +1,13 @@
-- title: "Paper Title Number 1"
-  authors: "Author(s)"
-  venue: "Journal 1"
-  year: 2009
+- title: "Spatio-temporal spectral transfers in fluid dynamics"
+  authors: "Avik Mondal*, Andrew J. Morten*, Brian K. Arbic, Glenn R. Flierl, and Robert B. Scott (*co-first authors)"
+  venue: "Physical Review Fluids"
+  year: 2025
   links:
-    pdf: "https://academicpages.github.io/files/paper1.pdf"
+    pdf: "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.064602"
 
-- title: "Paper Title Number 2"
-  authors: "Author(s)"
-  venue: "Journal 1"
-  year: 2010
+- title: "Network models for characterization of trabecular bone"
+  authors: "Avik Mondal, Chantal Nguyen, Xiao Ma, Ahmed E. Elbanna, and Jean M. Carlson"
+  venue: "Physical Review E"
+  year: 2019
   links:
-    pdf: "https://academicpages.github.io/files/paper2.pdf"
-
-- title: "Paper Title Number 3"
-  authors: "Author(s)"
-  venue: "Journal 1"
-  year: 2015
-  links:
-    pdf: "https://academicpages.github.io/files/paper3.pdf"
-
-- title: "Paper Title Number 4"
-  authors: "Author(s)"
-  venue: "GitHub Journal of Bugs"
-  year: 2024
-  links:
-    pdf: "https://academicpages.github.io/files/paper3.pdf"
+    pdf: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.042406"
