@@ -25,6 +25,15 @@ author_profile: true
 ## Lubensky Lab, University of Michigan — Biophysical Data Scientist & Simulation Engineer
 *2018 – 2025 | Ann Arbor, MI*
 
-- Built first semi-automated image analysis pipeline (Python, OpenCV, scikit-learn, FIJI) processing ~1 TB of microscopy data, achieving 10x throughput improvement
-- Engineered C++ physics-based simulation of 100,000+ heterogeneous cells with stochastic dynamics
+- Built the first semi-automated image analysis pipeline (Python, OpenCV, scikit-learn, FIJI) processing ~1 TB of microscopy data across hundreds of experimental conditions, achieving 10x throughput over prior manual workflow
+- Engineered a C++ physics-based simulation of 100,000+ heterogeneous cells with stochastic dynamics and spatially varying mechanical properties, incorporating mitosis, apoptosis, and periodic boundary conditions
+- Developed custom signal detection algorithm (NumPy, SciPy) quantitatively proving the existence of stereotyped cell size patterns in Drosophila wing tissue
 - Supervised 5 undergraduate researchers on simulation, statistical inference, and image analysis
+
+---
+
+## Carlson Lab, UC Santa Barbara — Undergraduate Researcher, Worster Fellow
+*2017 – 2019 | Santa Barbara, CA*
+
+- Applied graph-theoretic methods to develop novel structural indicators for bone disease diagnostics in human trabecular bone. First-author publication in *Physical Review E* (2019).
+- Built semi-automated pipelines to analyze microCT confocal images and generate 3D structural metrics of trabecular bone.
