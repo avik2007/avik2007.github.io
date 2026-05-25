@@ -1,0 +1,27 @@
+- title: "Paper Title Number 1"
+  authors: "Author(s)"
+  venue: "Journal 1"
+  year: 2009
+  links:
+    pdf: "https://academicpages.github.io/files/paper1.pdf"
+
+- title: "Paper Title Number 2"
+  authors: "Author(s)"
+  venue: "Journal 1"
+  year: 2010
+  links:
+    pdf: "https://academicpages.github.io/files/paper2.pdf"
+
+- title: "Paper Title Number 3"
+  authors: "Author(s)"
+  venue: "Journal 1"
+  year: 2015
+  links:
+    pdf: "https://academicpages.github.io/files/paper3.pdf"
+
+- title: "Paper Title Number 4"
+  authors: "Author(s)"
+  venue: "GitHub Journal of Bugs"
+  year: 2024
+  links:
+    pdf: "https://academicpages.github.io/files/paper3.pdf"
