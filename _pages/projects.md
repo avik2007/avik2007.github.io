@@ -5,24 +5,20 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Spatio-Temporal Spectral Decomposition for Ocean Climate Simulations
+## ML/Data Science for Sparse Ocean Warming Data Analysis
 
-**Tech:** Python, NumPy, SciPy, Xarray, Dask, NetCDF, NASA Pleiades HPC
+**Tech:** Python, PyTorch, AWS (S3, EC2), Docker, Coiled (Dask), Xarray, NetCDF
 
-Designed and implemented a novel spatio-temporal spectral decomposition algorithm to analyze kinetic energy transfers in NASA's coupled Earth-system simulation (MITgcm/GEOS5). Built parallelized ETL pipelines processing ~1 TB of ocean simulation data, enabling analysis of scale interactions in geophysical turbulence. Published in *Physical Review Fluids* (2025).
+Developing a probabilistic 3D field reconstruction system using physics-informed ML to interpolate sparse Argo float data into uncertainty-quantified subsurface temperature profiles. Building scalable AWS/Docker inference pipelines for 20-year multi-terabyte geophysical datasets.
 
----
-
-## Semi-Automated Microscopy Image Analysis Pipeline
-
-**Tech:** Python, OpenCV, scikit-learn, FIJI, NumPy
-
-Built the first semi-automated image analysis pipeline for the Lubensky Lab to process ~1 TB of biological microscopy data. Achieved a 10x throughput improvement over manual analysis. System performs cell segmentation, tracking, and statistical inference on active matter experiments.
+*In progress — Dec 2025–*
 
 ---
 
-## C++ Stochastic Cell Simulation
+## ML Aquaculture Risk Estimation
 
-**Tech:** C++, statistical mechanics, Monte Carlo methods
+**Tech:** Python, PyTorch, CNN, Transformer, GCP
 
-Engineered a high-performance physics-based simulation of 100,000+ heterogeneous cells with stochastic dynamics to model active matter and biological tissue behavior. Used to study emergent phenomena in cell populations under the Lubensky Lab's theoretical framework.
+Building a deep learning risk model predicting threshold-crossing heatwave probabilities with calibrated probabilistic outputs. Engineering GCP data ingestion and feature pipelines for end-to-end model training and serving.
+
+*In progress — Mar 2026–*

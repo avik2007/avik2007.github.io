@@ -23,7 +23,7 @@ repository               : "avik2007/avik2007.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "images/profile.png"
   name             : "Avik Mondal"
   pronouns         : # example: "she/her"
   bio              : "ML Engineer working at the intersection of machine learning and climate science."
