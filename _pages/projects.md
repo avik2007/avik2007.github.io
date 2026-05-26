@@ -21,4 +21,6 @@ Developing a probabilistic 3D field reconstruction system using physics-informed
 
 Building a deep learning risk model predicting threshold-crossing heatwave probabilities with calibrated probabilistic outputs. Engineering GCP data ingestion and feature pipelines for end-to-end model training and serving.
 
+**[View project →](https://avik2007.github.io/mhw-risk-profiler/)**
+
 *In progress — Mar 2026–*
