@@ -11,6 +11,8 @@ author_profile: true
 
 Developing a probabilistic 3D field reconstruction system using physics-informed ML to interpolate sparse Argo float data into uncertainty-quantified subsurface temperature profiles. Building scalable AWS/Docker inference pipelines for 20-year multi-terabyte geophysical datasets.
 
+**[View project →](https://avik2007.github.io/EBUS-Refugia-Heat-Analysis/)**
+
 *In progress — Dec 2025–*
 
 ---
