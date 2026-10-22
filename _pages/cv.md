@@ -38,6 +38,11 @@ Computational physicist (PhD, Michigan 2025) developing machine learning systems
 
 ## Selected Experience
 
+**Postdoctoral Scientist — Brandeis University** (Aug 2026–Present, Waltham)
+- Developing frequency-domain and wavelet scattering time-series algorithms to reconstruct 1–15 km ocean dynamics from a sparse 9-node, 127-sensor array (OSMOSIS)
+- Modeling ocean flows with physics-based simulations in Julia to serve as a null hypothesis for data analysis
+- Engineering end-to-end pipeline synchronizing and cleaning 20M+ asynchronous, multi-rate observations across a continuous 365-day deployment
+
 **Research Quality Analyst — Flypower.io** (Jan–Mar 2026, Remote)
 - Reviewed and validated AI-generated analysis for 15 high-impact renewable energy risk reports
 - Developed prompt engineering and QA methodology supporting permitting for 20 GW of renewable projects

@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Avik Mondal"
 title_separator          : "-"
 name                     : &name "Avik Mondal"
-description              : &description "ML Engineer | Climate Tech & Science"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Postdoctoral Scientist | Ocean Data Science & Modeling"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://avik2007.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Avik Mondal"
   pronouns         : # example: "she/her"
-  bio              : "ML Engineer working at the intersection of machine learning and climate science."
-  location         : "San Jose, CA"
+  bio              : "Postdoctoral Scientist at Brandeis University. Data science and modeling for oceanography."
+  location         : "Waltham, MA"
   employer         :
   uri              : # URL
   email            : # removed from public display

@@ -5,6 +5,15 @@ permalink: /experience/
 author_profile: true
 ---
 
+## Brandeis University — Postdoctoral Scientist
+*Aug 2026 – Present | Waltham, MA*
+
+- Developing novel frequency-domain and wavelet scattering time-series algorithms to solve ill-posed spatial inverse problems, extrapolating continuous 4D dynamical regimes (1 km–15 km scales) from a sparse, multi-rate 9-node (127-sensor) distributed array
+- Modeling ocean flows with physics-based simulations in Julia to serve as a null hypothesis for data analysis
+- Engineering an end-to-end data processing pipeline for a 9-node, 127-sensor distributed marine array (OSMOSIS), synchronizing and cleaning 20M+ asynchronous, multi-rate observations (5-min to 60-min intervals) across a continuous 365-day deployment
+
+---
+
 ## Flypower.io — Research Quality Analyst
 *Jan 2026 – Mar 2026 | Remote*
 
