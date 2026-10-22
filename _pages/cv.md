@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (DOCX)](/files/cv.docx)
+[Download CV (PDF)](/files/cv.pdf)
 
 ---
 
